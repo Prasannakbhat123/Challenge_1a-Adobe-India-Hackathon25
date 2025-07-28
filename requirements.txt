@@ -1,0 +1,4 @@
+# Round 1A: PDF Outline Extraction Requirements
+
+PyMuPDF==1.23.14
+numpy==1.24.3
